@@ -1,0 +1,8 @@
+; CryptoPriceTicker.def
+LIBRARY "CryptoPriceTicker"
+
+EXPORTS
+    DllCanUnloadNow     PRIVATE
+    DllGetClassObject   PRIVATE
+    DllRegisterServer   PRIVATE
+    DllUnregisterServer PRIVATE
