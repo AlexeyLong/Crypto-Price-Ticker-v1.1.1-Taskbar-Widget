@@ -1,4 +1,11 @@
 # Crypto-Price-Ticker-v1.1.1-Taskbar-Widget
+
+![Version](https:// img.shields.io/badge/version-v1.1.1-blue)
+![Platform](https:// img.shields.io/badge/platform-Windows-0078d7)
+![Language](https:// img.shields.io/badge/language-C%2B%2B-f34b7d)
+![Repository Size](https:// img.shields.io/github/repo-size/AlexeyLong/Crypto-Price-Ticker-v1.1.1-Taskbar-Widget)
+![Last Commit](https:// img.shields.io/github/last-commit/AlexeyLong/Crypto-Price-Ticker-v1.1.1-Taskbar-Widget)
+
 This Windows 10/11 (21H2) taskbar widget provides real-time cryptocurrency price tracking, featuring customizable pairs for live monitoring. It operates as a lightweight system tray application, allowing for immediate asset rate visibility without browser usage.
 
 ## Features
